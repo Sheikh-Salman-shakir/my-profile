@@ -1,0 +1,43 @@
+
+    *{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  border: dotted black 05px;
+  background-image: url(pexels-henry-&-co-1939485.jpg);  
+}
+hr{
+  margin: 0px;
+  padding:02px;
+  background: #000;
+}
+
+header {
+  border: dotted black 05px;
+  position:absolute;
+  color: rgb(68, 28, 177);
+  position: relative;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+p{
+  color:black;
+  font-weight: bold;
+}
+#id1,#id2,#id3,#id4,#id5{
+
+  border: dotted black 05px;
+  position:absolute;
+  color: rgb(68, 28, 177);
+  position: relative;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+footer {
+  border: dotted black 05px;
+  position:absolute;
+  color: rgb(68, 28, 177);
+  position: relative;
+  background-repeat: no-repeat;
+  text-align: center;}
