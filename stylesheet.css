@@ -5,7 +5,7 @@
 }
 body{
   border: dotted black 05px;
-  background-image: url(pexels-henry-&-co-1939485.jpg);  
+  background-color: antiquewhite
 }
 hr{
   margin: 0px;
@@ -22,7 +22,7 @@ header {
   text-align: center;
 }
 p{
-  color:black;
+  color:hotpink;
   font-weight: bold;
 }
 #id1,#id2,#id3,#id4,#id5{
